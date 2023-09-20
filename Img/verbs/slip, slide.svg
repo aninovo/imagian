@@ -1,0 +1,13 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="3" y="3" width="26" height="26" rx="2" stroke="white" stroke-width="2"/>
+<circle cx="12.7182" cy="10.5424" r="2" transform="rotate(-75 12.7182 10.5424)" fill="white"/>
+<line x1="13.7614" y1="13.1783" x2="18.196" y2="20.4481" stroke="white" stroke-width="2"/>
+<line x1="17.7911" y1="19.8274" x2="23.8455" y2="19.2404" stroke="white" stroke-width="2"/>
+<line x1="13.7534" y1="13.6903" x2="18.4575" y2="16.1108" stroke="white" stroke-width="2"/>
+<line x1="13.2552" y1="13.7465" x2="9.58098" y2="15.8678" stroke="white" stroke-width="2"/>
+<line x1="18.134" y1="14.9641" x2="20.134" y2="11.5" stroke="white" stroke-width="2"/>
+<line x1="10.0469" y1="15.2606" x2="9.01161" y2="19.1243" stroke="white" stroke-width="2"/>
+<line x1="22.3322" y1="18.9735" x2="28.1092" y2="23.096" stroke="white" stroke-width="2"/>
+<line x1="3.56914" y1="13.1778" x2="24.6498" y2="27.7694" stroke="white" stroke-width="2"/>
+<line x1="8.9113" y1="13.5219" x2="3.7535" y2="9.72755" stroke="white" stroke-width="2" stroke-dasharray="2 1"/>
+</svg>

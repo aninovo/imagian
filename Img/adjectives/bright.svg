@@ -1,0 +1,13 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="3" y="3" width="26" height="26" rx="2" stroke="white" stroke-width="2"/>
+<line x1="16" y1="3" x2="16" y2="9" stroke="white" stroke-width="2"/>
+<line x1="16" y1="23" x2="16" y2="29" stroke="white" stroke-width="2"/>
+<line x1="29" y1="16" x2="23" y2="16" stroke="white" stroke-width="2"/>
+<line x1="9" y1="16" x2="3" y2="16" stroke="white" stroke-width="2"/>
+<line x1="25.5386" y1="25.2197" x2="21.3269" y2="20.9464" stroke="white" stroke-width="2"/>
+<line x1="11.4995" y1="10.9753" x2="7.28778" y2="6.70195" stroke="white" stroke-width="2"/>
+<line x1="25.0919" y1="6.70711" x2="20.8492" y2="10.9497" stroke="white" stroke-width="2"/>
+<line x1="10.9497" y1="20.8492" x2="6.7071" y2="25.0919" stroke="white" stroke-width="2"/>
+<path d="M21 16C21 18.7614 18.7614 21 16 21C13.2386 21 11 18.7614 11 16C11 13.2386 13.2386 11 16 11C18.7614 11 21 13.2386 21 16ZM13.5 16C13.5 17.3807 14.6193 18.5 16 18.5C17.3807 18.5 18.5 17.3807 18.5 16C18.5 14.6193 17.3807 13.5 16 13.5C14.6193 13.5 13.5 14.6193 13.5 16Z" fill="white"/>
+<path d="M16 21C17.3261 21 18.5979 20.4732 19.5355 19.5355C20.4732 18.5979 21 17.3261 21 16C21 14.6739 20.4732 13.4021 19.5355 12.4645C18.5979 11.5268 17.3261 11 16 11L16 16V21Z" fill="white"/>
+</svg>

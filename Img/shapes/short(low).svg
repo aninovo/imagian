@@ -1,0 +1,6 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="3" y="3" width="26" height="26" rx="2" stroke="white" stroke-width="2"/>
+<line x1="16" y1="14" x2="16" y2="19" stroke="white" stroke-width="2" stroke-dasharray="2 1"/>
+<path d="M16 21L12.5359 27L19.4641 27L16 21Z" fill="white"/>
+<path d="M16 12L12.5359 5.99998L19.4641 5.99999L16 12Z" fill="white"/>
+</svg>

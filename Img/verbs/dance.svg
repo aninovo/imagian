@@ -1,0 +1,25 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_306_29)">
+<rect x="3" y="3" width="26" height="26" rx="2" stroke="white" stroke-width="2"/>
+<circle cx="9.96783" cy="10.3742" r="2" transform="rotate(-45 9.96783 10.3742)" fill="white"/>
+<line x1="10.517" y1="12.8727" x2="10.9616" y2="19.109" stroke="white" stroke-width="2"/>
+<line x1="10.8094" y1="18.2315" x2="17.1609" y2="19.3851" stroke="white" stroke-width="2"/>
+<line x1="10.9703" y1="17.9379" x2="11.4999" y2="24.3716" stroke="white" stroke-width="2"/>
+<line x1="11.029" y1="13.7962" x2="15.1271" y2="12.6981" stroke="white" stroke-width="2"/>
+<line x1="10.0009" y1="14.2662" x2="5.90287" y2="15.3643" stroke="white" stroke-width="2"/>
+<line x1="14.5198" y1="13.164" x2="16.5198" y2="9.69993" stroke="white" stroke-width="2"/>
+<line x1="6.51013" y1="14.8983" x2="4.51013" y2="18.3624" stroke="white" stroke-width="2"/>
+<line x1="16.4263" y1="18.3225" x2="18.9959" y2="24.705" stroke="white" stroke-width="2"/>
+<line x1="12.3361" y1="23.387" x2="6.83613" y2="27.5209" stroke="white" stroke-width="2"/>
+<path d="M19 5L27 6.8V8.6L19 6.8V5Z" fill="white"/>
+<rect x="17" y="12" width="3" height="3" rx="1.5" fill="white"/>
+<rect x="24" y="13" width="3" height="3" rx="1.5" fill="white"/>
+<line x1="19.5" y1="6" x2="19.5" y2="14" stroke="white"/>
+<line x1="26.5" y1="7" x2="26.5" y2="15" stroke="white"/>
+</g>
+<defs>
+<clipPath id="clip0_306_29">
+<rect width="32" height="32" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,10 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="path-1-inside-1_338_3550" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30 5H19V7H4V20H23.5C27.0899 20 30 17.0899 30 13.5V9V7V5Z"/>
+</mask>
+<path d="M19 5V3H17V5H19ZM30 5H32V3H30V5ZM19 7V9H21V7H19ZM4 7V5H2V7H4ZM4 20H2V22H4V20ZM19 7H30V3H19V7ZM21 7V5H17V7H21ZM4 9H19V5H4V9ZM6 20V7H2V20H6ZM23.5 18H4V22H23.5V18ZM28 13.5C28 15.9853 25.9853 18 23.5 18V22C28.1944 22 32 18.1944 32 13.5H28ZM28 9V13.5H32V9H28ZM28 7V9H32V7H28ZM28 5V7H32V5H28Z" fill="white" mask="url(#path-1-inside-1_338_3550)"/>
+<line x1="15.799" y1="5.75" x2="4.79904" y2="24.8026" stroke="white"/>
+<rect x="5.68301" y="21.2715" width="2" height="6" rx="1" transform="rotate(30 5.68301 21.2715)" fill="white" stroke="white"/>
+<line x1="20.4214" y1="18.7308" x2="24.2874" y2="24.7834" stroke="white"/>
+<rect x="21.683" y="22.2715" width="2" height="6" rx="1" transform="rotate(-30 21.683 22.2715)" fill="white" stroke="white"/>
+</svg>

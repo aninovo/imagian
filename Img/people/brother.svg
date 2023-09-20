@@ -1,0 +1,20 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line x1="16.7226" y1="9.58397" x2="19.7227" y2="7.58397" stroke="white"/>
+<line x1="18.5528" y1="9.77639" x2="19.5528" y2="7.77639" stroke="white"/>
+<line x1="17" y1="7.5" x2="20" y2="7.5" stroke="white"/>
+<path d="M18 11C18 12.6569 16.6569 14 15 14C13.3431 14 12 12.6569 12 11C12 9.34315 13.3431 8 15 8C16.6569 8 18 9.34315 18 11ZM13.5 11C13.5 11.8284 14.1716 12.5 15 12.5C15.8284 12.5 16.5 11.8284 16.5 11C16.5 10.1716 15.8284 9.5 15 9.5C14.1716 9.5 13.5 10.1716 13.5 11Z" fill="white"/>
+<line y1="-1" x2="4.90306" y2="-1" transform="matrix(0.97898 0.203954 -0.287348 0.957826 23.2 7)" stroke="white" stroke-width="2"/>
+<line y1="-1" x2="9.77569" y2="-1" transform="matrix(0.859338 0.511407 -0.650716 0.759322 14.8 2)" stroke="white" stroke-width="2"/>
+<line y1="-1" x2="9.77569" y2="-1" transform="matrix(-0.859338 0.511407 0.650716 0.759322 17.2006 2)" stroke="white" stroke-width="2"/>
+<line y1="-1" x2="4.90306" y2="-1" transform="matrix(-0.97898 0.203954 0.287348 0.957826 8.8 7)" stroke="white" stroke-width="2"/>
+<circle cx="8.8" cy="15" r="3" fill="white"/>
+<path d="M2 17.1833C2 17.1833 5.89521 19.0028 8.55 19.0028C11.2048 19.0028 15.1 17.1833 15.1 17.1833" stroke="white" stroke-width="2"/>
+<line x1="8.82222" y1="18.6389" x2="8.82222" y2="23.0056" stroke="white" stroke-width="2"/>
+<line x1="8.7507" y1="21.9063" x2="11.6618" y2="29.1841" stroke="white" stroke-width="2"/>
+<line y1="-1" x2="7.83841" y2="-1" transform="matrix(-0.371391 0.928477 0.928477 0.371391 9.71111 22)" stroke="white" stroke-width="2"/>
+<circle cx="23.6" cy="15" r="3" fill="white"/>
+<path d="M16.8 17.1833C16.8 17.1833 20.6952 19.0028 23.35 19.0028C26.0048 19.0028 29.9 17.1833 29.9 17.1833" stroke="white" stroke-width="2"/>
+<line x1="23.6222" y1="18.6389" x2="23.6222" y2="23.0056" stroke="white" stroke-width="2"/>
+<line x1="23.5507" y1="21.9063" x2="26.4618" y2="29.1841" stroke="white" stroke-width="2"/>
+<line y1="-1" x2="7.83841" y2="-1" transform="matrix(-0.371391 0.928477 0.928477 0.371391 24.5111 22)" stroke="white" stroke-width="2"/>
+</svg>

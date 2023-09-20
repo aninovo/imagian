@@ -1,0 +1,13 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="3" y="3" width="26" height="26" rx="2" stroke="white" stroke-width="2"/>
+<circle cx="19.1267" cy="6.32115" r="2" transform="rotate(-30 19.1267 6.32115)" fill="white"/>
+<line x1="17.9753" y1="9.00946" x2="15.6272" y2="15.9066" stroke="white" stroke-width="2"/>
+<line x1="25.0081" y1="9.96213" x2="10.0081" y2="22.9621" stroke="white"/>
+<line x1="15.2806" y1="14.7843" x2="19.2806" y2="17.7843" stroke="white" stroke-width="2"/>
+<line x1="17.6755" y1="9.48358" x2="18.1028" y2="13.7046" stroke="white" stroke-width="2"/>
+<line x1="17.7402" y1="13.0306" x2="20.8391" y2="15.5598" stroke="white" stroke-width="2"/>
+<line x1="18.575" y1="17.0315" x2="15.575" y2="23.0315" stroke="white" stroke-width="2"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6.01927 24.3463L4.83651 23.1635L9.16349 20.5673C10.1194 19.6114 11.6692 19.6114 12.6251 20.5673C13.581 21.5232 13.581 23.073 12.6251 24.0289L10.0289 28.3559L6.74038 25.0674L5.7019 25.7597L5.1472 24.9276L6.01927 24.3463Z" fill="white"/>
+<line x1="9" y1="10" x2="9" y2="16" stroke="white" stroke-width="2"/>
+<path d="M9 6L11.5981 10.5L6.40192 10.5L9 6Z" fill="white"/>
+</svg>

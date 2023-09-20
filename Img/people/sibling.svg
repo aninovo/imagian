@@ -1,0 +1,16 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line y1="-1" x2="4.90306" y2="-1" transform="matrix(0.97898 0.203954 -0.287348 0.957826 23.2 7)" stroke="white" stroke-width="2"/>
+<line y1="-1" x2="9.77569" y2="-1" transform="matrix(0.859338 0.511407 -0.650716 0.759322 14.8 2)" stroke="white" stroke-width="2"/>
+<line y1="-1" x2="9.77569" y2="-1" transform="matrix(-0.859338 0.511407 0.650716 0.759322 17.2006 2)" stroke="white" stroke-width="2"/>
+<line y1="-1" x2="4.90306" y2="-1" transform="matrix(-0.97898 0.203954 0.287348 0.957826 8.8 7)" stroke="white" stroke-width="2"/>
+<circle cx="8.8" cy="13" r="3" fill="white"/>
+<path d="M2 15.1833C2 15.1833 5.89521 17.0028 8.55 17.0028C11.2048 17.0028 15.1 15.1833 15.1 15.1833" stroke="white" stroke-width="2"/>
+<line x1="8.82222" y1="16.6389" x2="8.82222" y2="21.0056" stroke="white" stroke-width="2"/>
+<line x1="8.7507" y1="19.9063" x2="11.6618" y2="27.1841" stroke="white" stroke-width="2"/>
+<line y1="-1" x2="7.83841" y2="-1" transform="matrix(-0.371391 0.928477 0.928477 0.371391 9.71111 20)" stroke="white" stroke-width="2"/>
+<circle cx="23.6" cy="13" r="3" fill="white"/>
+<path d="M16.8 15.1833C16.8 15.1833 20.6952 17.0028 23.35 17.0028C26.0048 17.0028 29.9 15.1833 29.9 15.1833" stroke="white" stroke-width="2"/>
+<line x1="23.6222" y1="16.6389" x2="23.6222" y2="21.0056" stroke="white" stroke-width="2"/>
+<line x1="23.5507" y1="19.9063" x2="26.4618" y2="27.1841" stroke="white" stroke-width="2"/>
+<line y1="-1" x2="7.83841" y2="-1" transform="matrix(-0.371391 0.928477 0.928477 0.371391 24.5111 20)" stroke="white" stroke-width="2"/>
+</svg>

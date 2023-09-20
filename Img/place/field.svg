@@ -1,0 +1,21 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="3" y="3" width="26" height="26" rx="2" stroke="white" stroke-width="2"/>
+<line x1="3.23699" y1="11.5188" x2="28.237" y2="15.5188" stroke="white" stroke-width="3"/>
+<line x1="15.7059" y1="13.0442" x2="28.7059" y2="9.04422" stroke="white" stroke-width="2"/>
+<line x1="10.943" y1="11.3328" x2="4.94299" y2="28.3328" stroke="white" stroke-width="2"/>
+<line x1="21.9662" y1="13.7423" x2="25.9662" y2="28.7423" stroke="white" stroke-width="2"/>
+<line x1="16" y1="13" x2="16" y2="28" stroke="white" stroke-width="2"/>
+<path d="M11 3L11.9279 4.60714H10.0721L11 3Z" fill="white"/>
+<path d="M6.66987 5.49997L8.52564 5.49997L7.59775 7.10711L6.66987 5.49997Z" fill="white"/>
+<path d="M8.50003 3.66985L10.1072 4.59774L8.50003 5.52562L8.50003 3.66985Z" fill="white"/>
+<path d="M15.3301 5.50003L14.4023 7.10717L13.4744 5.50003L15.3301 5.50003Z" fill="white"/>
+<path d="M13.5 3.66987L13.5 5.52564L11.8929 4.59775L13.5 3.66987Z" fill="white"/>
+<path d="M16 8.00002L14.3929 8.9279L14.3929 7.07213L16 8.00002Z" fill="white"/>
+<path d="M11 13L11.9279 11.3929H10.0721L11 13Z" fill="white"/>
+<path d="M15.3301 10.5L14.4023 8.89283L13.4744 10.5L15.3301 10.5Z" fill="white"/>
+<path d="M13.5 12.3301L13.5 10.4744L11.8929 11.4022L13.5 12.3301Z" fill="white"/>
+<path d="M6.66987 10.5L8.52564 10.5L7.59775 8.89289L6.66987 10.5Z" fill="white"/>
+<path d="M8.50003 12.3301L10.1072 11.4023L8.50003 10.4744L8.50003 12.3301Z" fill="white"/>
+<path d="M6 8.00002L7.60714 8.9279L7.60714 7.07213L6 8.00002Z" fill="white"/>
+<circle cx="11" cy="8.00003" r="2.85714" fill="white"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="3" y="3" width="26" height="26" rx="2" stroke="white" stroke-width="2"/>
+<line x1="11.5" y1="24" x2="11.5" y2="16" stroke="white" stroke-width="3"/>
+<line x1="7.5" y1="24" x2="7.5" y2="18" stroke="white" stroke-width="3"/>
+<line x1="15.5" y1="24" x2="15.5" y2="22" stroke="white" stroke-width="3"/>
+<line x1="19.5" y1="24" x2="19.5" y2="22" stroke="white" stroke-width="3"/>
+<line x1="23.5" y1="24" x2="23.5" y2="22" stroke="white" stroke-width="3"/>
+<mask id="path-7-inside-1_2_41" fill="white">
+<path d="M14 14H17V24H14V14Z"/>
+</mask>
+<path d="M14 14V13H13.8V14H14ZM17 14H17.8V13H17V14ZM17 24V25H17.8V24H17ZM14 24H13.8V25H14V24ZM14 15H17V13H14V15ZM16.2 14V24H17.8V14H16.2ZM17 23H14V25H17V23ZM14.2 24V14H13.8V24H14.2Z" fill="white" mask="url(#path-7-inside-1_2_41)"/>
+<mask id="path-9-inside-2_2_41" fill="white">
+<path d="M18 12H21V24H18V12Z"/>
+</mask>
+<path d="M18 12V11H17.8V12H18ZM21 12H21.8V11H21V12ZM21 24V25H21.8V24H21ZM18 24H17.8V25H18V24ZM18 13H21V11H18V13ZM20.2 12V24H21.8V12H20.2ZM21 23H18V25H21V23ZM18.2 24V12H17.8V24H18.2Z" fill="white" mask="url(#path-9-inside-2_2_41)"/>
+<mask id="path-11-inside-3_2_41" fill="white">
+<path d="M22 10H25V24H22V10Z"/>
+</mask>
+<path d="M22 10V9H21.8V10H22ZM25 10H25.8V9H25V10ZM25 24V25H25.8V24H25ZM22 24H21.8V25H22V24ZM22 11H25V9H22V11ZM24.2 10V24H25.8V10H24.2ZM25 23H22V25H25V23ZM22.2 24V10H21.8V24H22.2Z" fill="white" mask="url(#path-11-inside-3_2_41)"/>
+</svg>

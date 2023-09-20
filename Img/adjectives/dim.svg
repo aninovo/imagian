@@ -1,0 +1,13 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="3" y="3" width="26" height="26" rx="2" stroke="white" stroke-width="2"/>
+<path d="M21 16C21 18.7614 18.7614 21 16 21C13.2386 21 11 18.7614 11 16C11 13.2386 13.2386 11 16 11C18.7614 11 21 13.2386 21 16ZM13.5 16C13.5 17.3807 14.6193 18.5 16 18.5C17.3807 18.5 18.5 17.3807 18.5 16C18.5 14.6193 17.3807 13.5 16 13.5C14.6193 13.5 13.5 14.6193 13.5 16Z" fill="white"/>
+<path d="M16 21C17.3261 21 18.5979 20.4732 19.5355 19.5355C20.4732 18.5979 21 17.3261 21 16C21 14.6739 20.4732 13.4021 19.5355 12.4645C18.5979 11.5268 17.3261 11 16 11L16 16V21Z" fill="white"/>
+<circle cx="24.5" cy="15.5" r="1.5" transform="rotate(90 24.5 15.5)" fill="white"/>
+<circle cx="16.5" cy="23.5" r="1.5" transform="rotate(-180 16.5 23.5)" fill="white"/>
+<circle cx="21.6569" cy="21.6569" r="1.5" transform="rotate(135 21.6569 21.6569)" fill="white"/>
+<circle cx="21.6569" cy="10.3432" r="1.5" transform="rotate(45 21.6569 10.3432)" fill="white"/>
+<circle cx="8.5" cy="15.5" r="1.5" transform="rotate(90 8.5 15.5)" fill="white"/>
+<circle cx="16.5" cy="7.5" r="1.5" transform="rotate(-180 16.5 7.5)" fill="white"/>
+<circle cx="10.3431" cy="10.3431" r="1.5" transform="rotate(135 10.3431 10.3431)" fill="white"/>
+<circle cx="10.3431" cy="21.6569" r="1.5" transform="rotate(45 10.3431 21.6569)" fill="white"/>
+</svg>
