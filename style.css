@@ -43,14 +43,14 @@ body html{
   flex-flow: nowrap;
   border-right: none; 
   border-bottom: 1px solid #ccc;
-  background-color: white;
-  color: #3D3C3F;
+  background-color: #F3F3F3;
+  color: #211F20;
 }
 
 .black{
   width: 100%;
-  background-color: #3D3C3F;
-  color: white;
+  background-color: #211F20;
+  color: #F3F3F3;
 }
 
 /* Adjust scrollbar styles */
@@ -70,30 +70,30 @@ body html{
 .glyph{
   width: 32px;
   height: 32px;
-  background-color: #3D3C3F;
+  background-color: #211F20;
   cursor: pointer;
 }
 .half-glyph{
   width: 16px;
   height: 32px;
-  background-color: #3D3C3F;
+  background-color: #211F20;
   cursor: pointer;
 }
 
 footer{
   width: 100%; /* Full width on smaller screens */
   bottom: 0;
-  background-color: #3D3C3F;
-  color: white;
+  background-color: #211F20;
+  color: #F3F3F3;
 }
 
 button{
-  color: white; 
+  color: #F3F3F3; 
 }
 
 footer > button{
-  color: #3D3C3F; 
-  background-color: white;
+  color: #211F20; 
+  background-color: #F3F3F3;
   border-radius: 8px;
   padding: 8px;
   

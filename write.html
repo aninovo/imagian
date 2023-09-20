@@ -46,11 +46,6 @@
       }
 
       function handleKeyPress() {
-        /*
-        if(event.keyCode == 13){// enter
-          exportHTML();
-          return false;
-        }*/
         let pressedKey = String.fromCharCode(event.charCode);
         if (pressedKey in keys) {
           pasteImage(keys[pressedKey], half=true);
@@ -58,19 +53,10 @@
         return false;
       }
 
-      /*
-      function showHint(index, data){
-        const conatiner = document.getElementById("hintContainer");
-        const desc = data[index].description;
-        if(desc != null)
-          conatiner.innerHTML = desc;
-      }*/
-
       function inputGlyph(index, data){
-        //const src = data[index].image;
         const src = 'Img/' + data[index].img;
         if(src != null)
-          pasteImage(src);
+          pasteImage(src, half = data[index].half);
       }
 
       function pasteImage(src, half=false){

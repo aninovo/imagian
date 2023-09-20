@@ -11,9 +11,9 @@ body {
   flex-direction: column;
   align-items: flex-start;
   gap: 10px;
-  background: var(--background, #3D3C3F);
+  background: var(--background, #211F20);
   /* typography*/
-  color: var(--text, #FFF);
+  color: var(--text, #F3F3F3);
   font-family: Jockey One;
   font-size: 16px;
   font-style: normal;
@@ -60,7 +60,7 @@ article{
   gap: 10px;
   /* border*/
   border-radius: 0px 12px;
-  border: 2px solid var(--text, #FFF);
+  border: 2px solid var(--text, #F3F3F3);
   /* text */
   text-align: justify;
 }
@@ -87,5 +87,5 @@ a{
 }
 
 nav > a {
-  color: var(--text, #FFF);
+  color: var(--text, #F3F3F3);
 }
