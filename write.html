@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>WRITE Imagian</title>
+    <meta charset="utf-8"/>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" type="text/css" href="reset.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="keys.js"></script>
+    <script src="data.js"></script>
+  </head>
+  <body onkeypress="handleKeyPress()">
+    <header></header>
+    <main class="container">
+      <div class="panel white" id="imageContainer">
+      </div>
+      <div class="panel black" id="buttonContainer"></div>
+    </main>
+    <footer id="hintContainer">
+      <div>
+        Point at a symbol to see its basic meaning, click to type it. Type spaces and punctuation with your keyboard.
+        When a line is done, screenshot it or press "export HTML" to copy it into your clipboard, then paset with Ctrl+V.
+      </div>
+      <button onclick="exportHTML()">Export HTML</button>
+    </footer>
+    <script>
+      function exportHTML(){
+        const imageConatiner = document.getElementById('imageContainer');
+        copyToClipboard(imageConatiner.innerHTML);
+      }
+
+      function deleteLastChild(elementId) {
+          var parentElement = document.getElementById(elementId);
+          if (parentElement) {
+              var lastChild = parentElement.lastChild;
+              if (lastChild)
+                  parentElement.removeChild(lastChild);
+          }
+      }
+
+      function deleteMe(event) {
+        const targetElement = event.target;
+        if (targetElement && targetElement.parentNode) {
+          targetElement.parentNode.removeChild(targetElement);
+        }
+      }
+
+      function handleKeyPress() {
+        /*
+        if(event.keyCode == 13){// enter
+          exportHTML();
+          return false;
+        }*/
+        let pressedKey = String.fromCharCode(event.charCode);
+        if (pressedKey in keys) {
+          pasteImage(keys[pressedKey], half=true);
+        }
+        return false;
+      }
+
+      /*
+      function showHint(index, data){
+        const conatiner = document.getElementById("hintContainer");
+        const desc = data[index].description;
+        if(desc != null)
+          conatiner.innerHTML = desc;
+      }*/
+
+      function inputGlyph(index, data){
+        //const src = data[index].image;
+        const src = 'Img/' + data[index].img;
+        if(src != null)
+          pasteImage(src);
+      }
+
+      function pasteImage(src, half=false){
+        const conatiner = document.getElementById("imageContainer");
+        const image = document.createElement("img");
+        image.src = src;
+        image.alt = src;
+        if(half) image.className = "half-glyph";
+        else image.className = "glyph";
+        image.onclick = deleteMe;
+        conatiner.appendChild(image);
+      }
+
+      function renderButtons(data){
+        const conatiner = document.getElementById("buttonContainer");
+        for(const i in data){
+          const button = document.createElement("button");
+          const image = document.createElement("img");
+          //image.src = data[i].img;
+          image.src = 'Img/' + data[i].img;
+          image.alt = image.src;
+          image.title = data[i].name;
+          image.className = "glyph";
+          button.appendChild(image);
+          button.onclick = function() { inputGlyph(i, data);};
+          button.onkeyup = function(){if(event.keyCode == 32) event.preventDefault();};// spacebar (calls onclick by default)
+          //button.onmouseover = function() { showHint(i, data);};
+          conatiner.appendChild(button);
+        }
+      }
+
+      function copyToClipboard(textToCopy) {
+          // Create a temporary input element
+          const tempInput = document.createElement("textarea");
+
+          // Set the input element's value to the text you want to copy
+          tempInput.value = textToCopy;
+
+          // Append the input element to the DOM
+          document.body.appendChild(tempInput);
+
+          // Select the text in the input element
+          tempInput.select();
+          tempInput.setSelectionRange(0, 99999); // For mobile devices
+
+          // Copy the selected text to the clipboard
+          document.execCommand("copy");
+
+          // Remove the temporary input element
+          document.body.removeChild(tempInput);
+      }
+
+      renderButtons(data);
+    </script>
+  </body>
+</html>

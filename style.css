@@ -1,0 +1,101 @@
+/* CSS for Two Equally-Sized Panels Side by Side */
+
+/* Global reset to ensure consistent styling */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body html{
+  height: 100%; width: 100%;
+}
+
+/* Create a container for the panels */
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh; /* 100% of the viewport height */
+  overflow: hidden; /* Hide overflow from the container itself */
+}
+
+/* Style for each panel */
+.panel {
+  width: 50%; /* Equal width for both panels */
+  /*height: 100%;*/
+  flex-grow: 1;
+  overflow: auto; /* Allow scrollbar when content overflows */
+  border-right: 1px solid #ccc; /* Add a divider between panels */
+  display: flex;
+  flex-direction: row;
+  flex-flow: wrap;
+  align-items: flex-start;
+  align-content: flex-start;
+  gap: 0px;
+  padding: 6px;
+}
+
+.white{
+  width: 100%; 
+  height: 48px;
+  flex-grow: 0;
+  flex-direction: row;
+  flex-flow: nowrap;
+  border-right: none; 
+  border-bottom: 1px solid #ccc;
+  background-color: white;
+  color: #3D3C3F;
+}
+
+.black{
+  width: 100%;
+  background-color: #3D3C3F;
+  color: white;
+}
+
+/* Adjust scrollbar styles */
+.panel::-webkit-scrollbar {
+  width: 8px; /* Width of the scrollbar */
+}
+
+.panel::-webkit-scrollbar-thumb {
+  background-color: #888; /* Color of the scrollbar thumb */
+  border-radius: 4px; /* Rounded corners for the thumb */
+}
+
+.panel::-webkit-scrollbar-track {
+  background-color: #f0f0f0; /* Color of the scrollbar track */
+}
+
+.glyph{
+  width: 32px;
+  height: 32px;
+  background-color: #3D3C3F;
+  cursor: pointer;
+}
+.half-glyph{
+  width: 16px;
+  height: 32px;
+  background-color: #3D3C3F;
+  cursor: pointer;
+}
+
+footer{
+  width: 100%; /* Full width on smaller screens */
+  bottom: 0;
+  background-color: #3D3C3F;
+  color: white;
+}
+
+button{
+  color: white; 
+}
+
+footer > button{
+  color: #3D3C3F; 
+  background-color: white;
+  border-radius: 8px;
+  padding: 8px;
+  
+  flex-grow: 0;
+}
