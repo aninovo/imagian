@@ -152,10 +152,13 @@ data = [
 {img: "materials/gold.svg", name:"gold"},
 {img: "materials/ice.svg", name:"ice"},
 {img: "materials/iron, steel.svg", name:"iron"},
+{img: "materials/iron.svg", name:"iron"},
 {img: "materials/meat.svg", name:"meat"},
 {img: "materials/paper.svg", name:"paper"},
 {img: "materials/poop.svg", name:"poop"},
+{img: "materials/silver.svg", name:"silver"},
 {img: "materials/soil, dirt.svg", name:"soil"},
+{img: "materials/steel.svg", name:"steel"},
 {img: "materials/stone, rock.svg", name:"stone"},
 {img: "materials/water.svg", name:"water"},
 // shapes
