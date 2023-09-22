@@ -49,7 +49,7 @@
       function handleKeyPress() {
         let pressedKey = String.fromCharCode(event.charCode);
         if (pressedKey in keys) {
-          pasteImage(keys[pressedKey], half=true);
+          pasteImage(fullPath + keys[pressedKey], half=true);
         }
         return false;
       }
