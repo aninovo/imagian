@@ -8,4 +8,5 @@
 <line x1="17.4899" y1="13.3283" x2="21.0354" y2="16.8737" stroke="white"/>
 <line x1="27" y1="26" x2="27" y2="32" stroke="white" stroke-width="2"/>
 <path d="M27 22L29.5981 26.5L24.4019 26.5L27 22Z" fill="white"/>
+<rect x="23" y="17" width="4" height="4" fill="white"/>
 </svg>

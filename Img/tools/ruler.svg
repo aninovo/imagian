@@ -1,10 +1,10 @@
 <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="19.2189" y="3.79071" width="7" height="23" transform="rotate(30 19.2189 3.79071)" stroke="white" stroke-width="2"/>
-<line x1="20.567" y1="7.45578" x2="23.1651" y2="8.95578" stroke="white"/>
-<line x1="19.067" y1="10.0539" x2="21.6651" y2="11.5539" stroke="white"/>
-<line x1="16.701" y1="12.1519" x2="20.1651" y2="14.1519" stroke="white"/>
-<line x1="16.067" y1="15.25" x2="18.6651" y2="16.75" stroke="white"/>
-<line x1="14.567" y1="17.8481" x2="17.1651" y2="19.3481" stroke="white"/>
-<line x1="12.201" y1="19.9461" x2="15.6651" y2="21.9461" stroke="white"/>
-<line x1="11.567" y1="23.0442" x2="14.1651" y2="24.5442" stroke="white"/>
+<rect x="22.1224" y="3.86807" width="8.08495" height="26.0138" transform="rotate(45 22.1224 3.86807)" stroke="white" stroke-width="2"/>
+<line x1="22.476" y1="8.43911" x2="24.853" y2="10.8162" stroke="white"/>
+<line x1="20.099" y1="10.8162" x2="22.476" y2="13.1932" stroke="white"/>
+<line x1="16.9295" y1="12.4008" x2="20.0989" y2="15.5702" stroke="white"/>
+<line x1="15.3449" y1="15.5702" x2="17.7219" y2="17.9473" stroke="white"/>
+<line x1="12.9679" y1="17.9473" x2="15.3449" y2="20.3243" stroke="white"/>
+<line x1="9.79844" y1="19.5319" x2="12.9678" y2="22.7013" stroke="white"/>
+<line x1="8.21372" y1="22.7014" x2="10.5908" y2="25.0784" stroke="white"/>
 </svg>

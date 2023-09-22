@@ -1,9 +1,9 @@
 <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-<line x1="13.1208" y1="23.951" x2="24.3792" y2="17.451" stroke="white"/>
-<line x1="19" y1="21.134" x2="20" y2="22.866" stroke="white"/>
-<line x1="16.4019" y1="22.634" x2="17.4019" y2="24.366" stroke="white"/>
-<line x1="24.1962" y1="18.134" x2="25.1962" y2="19.866" stroke="white"/>
-<line x1="13.8039" y1="24.134" x2="14.8039" y2="25.866" stroke="white"/>
-<line x1="21.5981" y1="19.634" x2="22.5981" y2="21.366" stroke="white"/>
-<rect x="8.02286" y="4.4054" width="2" height="19" transform="rotate(-30 8.02286 4.4054)" fill="white"/>
+<line x1="4" y1="22.976" x2="30.1559" y2="22.976" stroke="white" stroke-width="2"/>
+<line x1="17.072" y1="23.976" x2="17.072" y2="28" stroke="white" stroke-width="2"/>
+<line x1="5.73649" y1="2.00772" x2="17.7365" y2="23.0077" stroke="white" stroke-width="4"/>
+<line x1="11.0359" y1="23.9759" x2="11.0359" y2="27.9999" stroke="white" stroke-width="2"/>
+<line x1="29.1439" y1="23.976" x2="29.1439" y2="28" stroke="white" stroke-width="2"/>
+<line x1="5" y1="23.976" x2="5" y2="28" stroke="white" stroke-width="2"/>
+<line x1="23.1079" y1="23.976" x2="23.1079" y2="28" stroke="white" stroke-width="2"/>
 </svg>
