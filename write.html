@@ -57,14 +57,15 @@
       function inputGlyph(index, data){
         const src = fullPath + 'Img/' + data[index].img;
         if(src != null)
-          pasteImage(src, half = data[index].half);
+          pasteImage(src, half = data[index].half, title = data[index].name);
       }
 
-      function pasteImage(src, half=false){
+      function pasteImage(src, half=false, title=""){
         const conatiner = document.getElementById("imageContainer");
         const image = document.createElement("img");
         image.src = src;
-        image.alt = src;
+        image.title = title;
+        //image.alt = src;
         if(half) image.className = "half-glyph";
         else image.className = "glyph";
         image.onclick = deleteMe;
