@@ -24,6 +24,7 @@
       <button onclick="exportHTML()">Export HTML</button>
     </footer>
     <script>
+      const fullPath = 'https://aninovo.github.io/imagian/';
       function exportHTML(){
         const imageConatiner = document.getElementById('imageContainer');
         copyToClipboard(imageConatiner.innerHTML);
@@ -54,7 +55,7 @@
       }
 
       function inputGlyph(index, data){
-        const src = 'Img/' + data[index].img;
+        const src = fullPath + 'Img/' + data[index].img;
         if(src != null)
           pasteImage(src, half = data[index].half);
       }
