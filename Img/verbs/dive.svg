@@ -1,0 +1,12 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="3" y="3" width="26" height="26" rx="2" stroke="white" stroke-width="2"/>
+<path d="M25.5442 20.0006C25.5442 20.0006 22.3734 22.2815 19.5442 22.0006C16.4111 21.6896 14.6896 18.6415 11.5442 18.5006C9.0768 18.3901 5.54422 20.0006 5.54422 20.0006" stroke="white" stroke-width="3"/>
+<path d="M22.5442 25.7748C22.5442 25.7748 20.3246 27.7136 18.3442 27.4748C16.151 27.2104 14.946 24.6195 12.7442 24.4998C11.017 24.4059 8.54422 25.7748 8.54422 25.7748" stroke="white" stroke-width="2"/>
+<circle cx="23.4516" cy="15.5233" r="2" transform="rotate(90 23.4516 15.5233)" fill="white"/>
+<line x1="21.8938" y1="13.3586" x2="17.5933" y2="9.17467" stroke="white" stroke-width="2"/>
+<line x1="18.4147" y1="9.45018" x2="12.061" y2="10.2447" stroke="white" stroke-width="2"/>
+<line x1="21.1588" y1="12.2304" x2="18.1588" y2="15.2304" stroke="white" stroke-width="2"/>
+<line x1="18.4516" y1="14.5233" x2="18.4516" y2="18.5233" stroke="white" stroke-width="2"/>
+<line x1="13.2929" y1="10.7071" x2="8.29289" y2="5.70711" stroke="white" stroke-width="2"/>
+<rect x="25.0131" y="10.2662" width="2.42966" height="6" transform="rotate(135 25.0131 10.2662)" fill="white"/>
+</svg>
