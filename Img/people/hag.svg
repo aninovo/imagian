@@ -1,8 +1,0 @@
-<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M13.75 10C13.75 10 11.7131 10.1769 11.25 11.875C10.8647 13.2879 11.25 17.5 11.25 17.5" stroke="white" stroke-width="2"/>
-<line x1="11" y1="16.25" x2="11" y2="28.75" stroke="white" stroke-width="2"/>
-<line x1="19.75" y1="16.25" x2="19.75" y2="28.75" stroke="white" stroke-width="2"/>
-<line x1="11.9571" y1="11.7929" x2="15.7071" y2="15.5429" stroke="white" stroke-width="2"/>
-<line x1="15" y1="15.25" x2="20" y2="15.25" stroke="white" stroke-width="2"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M16.25 10C17.6307 10 18.75 8.88071 18.75 7.5C18.75 6.11929 17.6307 5 16.25 5C15.3246 5 14.5167 5.50275 14.0845 6.25H15.625C15.9702 6.25 16.25 6.52982 16.25 6.875C16.25 7.22018 15.9702 7.5 15.625 7.5H13.75C13.75 8.88071 14.8693 10 16.25 10Z" fill="white"/>
-</svg>

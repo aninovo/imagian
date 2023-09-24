@@ -1,7 +1,7 @@
 import os
 
 folder_path = 'Img'
-subpath = 'materials'
+subpath = 'people'
 files = os.listdir(folder_path+'/'+subpath)
 for file in files:
     if file.endswith('.svg'):
