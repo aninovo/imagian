@@ -132,7 +132,7 @@ data = [
 {img: "abstract/direction.svg", name:"direction\n(+adjective) directional"},
 {img: "abstract/game.svg", name:"game\n(+do) to play"},
 {img: "abstract/half.svg", name:"half\n(+causative) to halve"},
-{img: "abstract/justice, right.svg", name:"justice\n(+do) to judge \n(+adjective) just, fair\n(+adverb) justly, fairly"},
+{img: "abstract/justice, right.svg", name:"justice\n(+do) to judge \n(+adjective) just, fair\n(+adverb) justly, fairly\n (justice+freedom) a right"},
 {img: "abstract/layer.svg", name:"layer\n(+adjective) layered, complex\n(+adjective+thing) complexity"},
 {img: "abstract/light.svg", name:"light"},
 {img: "abstract/luck.svg", name:"luck\n(+adjective) lucky, fortunate\n(+no) unlucky, unfortunate"},
